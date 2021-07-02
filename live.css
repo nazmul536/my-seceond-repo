@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Garelick{
+    width: 30%;
+    margin: 20px;
+    display: inline-block;
+    margin-left: 50px;
+    font-size: 30px;
+}
+.Garelick h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    color: rgb(177, 23, 177);
+    padding: 10px 0px;
+}
+.Garelick h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 8px 0px;
+}
+.Garelick p{
+    text-align: justify;
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: normal;
+    margin: 10px 0px;
+}
+.button{
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.img1{
+    background-image: url("image/a.jpg");
+    background-repeat: no repeat;
+    background-position: top left;
+    background-size: cover;
+    height: 450px;
+    width: 850px;
+    float: right;
+    margin-right: 60px;;
+    
+}
+.img1 p{
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    font-style: bold;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    opacity: 0.6;
+    
+}
+
+.img2 img{
+    margin-top: 120px;
+    margin-left: 48px;
+    width: 700px;
+    height: 600px;
+    float: left;
+}
+
+.farmer{
+    width: 40%;
+    display: inline-block;
+    float: right;
+    margin-top: 10%;
+    margin-right: 5%;
+}
+.farmer h1{
+    font-size: 45px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-bottom:10px; 
+    text-align: center;
+}
+.farmer p{
+    font-size: 22px;
+    font-family: sans-serif;
+    text-align: right;
+    line-height: 32px;
+}
+
+.button1{
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    padding: 20px;
+    font-size: 24px;
+    float: right;
+    text-align: center;
+    margin-top: 35px;
+}
